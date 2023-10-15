@@ -20,6 +20,7 @@ const colors = ["เขียว","แดง","เหลือง"]
 // console.log(green ,",",  yellow)
 
 
+//object
 const product = {
     productName :   "คอม",
     price : 30000,
