@@ -8,7 +8,7 @@ const data = [10,20,30,40,50]
 //     console.log(`ลำดับที่ ${i} = ${data[i]}`);
 // }
 
-//element / e== call back function  ดึงมาจากข้อมูลใน Array
+//element / e== ***call back function  ดึงมาจากข้อมูลใน Array
 // data.forEach(element => {
 //     console.log(element)
 // });
